@@ -1,2 +1,0 @@
-install: https://www.youtube.com/watch?v=yxRB9kIgtHg&t=210s
-Make sure your hard drive is E://
